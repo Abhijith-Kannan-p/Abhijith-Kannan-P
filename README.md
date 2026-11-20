@@ -1,6 +1,6 @@
 Hi, I'm Abhijith 👋
 
-CS undergrad at IIIT Dharwad (class of 2028), with a minor in Quantum Information Science. I like building things that actually work, especially around AI agents, RAG and ML, and I'm currently looking for internships (SWE / data science).
+CS undergrad at IIIT Dharwad (class of 2028), with a minor in Quantum Information Science. I like building things that actually work, especially around AI agents, RAG and ML, and I'm currently looking for internships (SWE / data science/agents/ML).
 
 What I use
 Python · C++ · JavaScript · SQL · PyTorch · Qiskit · LangChain · RAG · Streamlit · React · Git
